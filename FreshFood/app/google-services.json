@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "667059007218",
+    "firebase_url": "https://fresh-food-c8735.firebaseio.com",
+    "project_id": "fresh-food-c8735",
+    "storage_bucket": "fresh-food-c8735.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:667059007218:android:4ed1a3fbf0c1a76f3daa6b",
+        "android_client_info": {
+          "package_name": "com.example.freshfood"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "667059007218-p1cbflrogdq0a1kj5gobs02npp0npckr.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.freshfood",
+            "certificate_hash": "91921b32eb03b7312c29ae595a7976dd5ab2c512"
+          }
+        },
+        {
+          "client_id": "667059007218-vup1ddmsqddjon39embe6e1dku09j1j2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD5GU3_0Y1vOjwogYaXOsEuSvnPJOggyXo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "667059007218-vup1ddmsqddjon39embe6e1dku09j1j2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
